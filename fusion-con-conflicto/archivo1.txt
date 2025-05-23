@@ -1,4 +1,4 @@
 nuevo conflicto
-generando conflicto4
+generando conflicto4 en rama6
 
 
