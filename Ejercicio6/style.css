@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    background-color: #fffdfd;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+}
+
+input {
+    padding: 5px;
+    
+    width: 200px;
+}
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button {
+    padding: 10px 20px;
+    background-color: #94758c;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#mensaje {
+    margin-top: 20px;
+    font-size: 18px;
+    
+}

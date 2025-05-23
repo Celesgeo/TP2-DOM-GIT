@@ -1,7 +1,7 @@
 body {
-    font-family : arial ;
-    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
+    background-color: #fffdfd;
 }
 input {
     margin-bottom:10px ;
