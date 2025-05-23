@@ -1,1 +1,3 @@
-creo un archivo para conflicto1 armando lio
+
+
+creo un archivo para conflicto en ramaConflicto2
