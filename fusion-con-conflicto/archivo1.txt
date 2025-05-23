@@ -1,7 +1,2 @@
-nuevo conflicto
-generando otro conflicto 5
-
-
-
-
+creo una mas sin conflicto porque me falto una al pareser
 
