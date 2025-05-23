@@ -1,6 +1,6 @@
 nuevo conflicto
+generando otro conflicto 5
 
-generando otro conflicto rama8
 
 
 
